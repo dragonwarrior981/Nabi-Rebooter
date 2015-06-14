@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nabi Rebooter", "Nabi Rebooter.vbproj", "{CC23AF85-224F-4788-B5E5-DFFB4FEDDA66}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AndroidLib", "..\AndroidLib\AndroidLib.vbproj", "{1ADBE2A2-8F59-40FD-B0CA-64D27D4FEC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC23AF85-224F-4788-B5E5-DFFB4FEDDA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC23AF85-224F-4788-B5E5-DFFB4FEDDA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC23AF85-224F-4788-B5E5-DFFB4FEDDA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC23AF85-224F-4788-B5E5-DFFB4FEDDA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADBE2A2-8F59-40FD-B0CA-64D27D4FEC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADBE2A2-8F59-40FD-B0CA-64D27D4FEC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADBE2A2-8F59-40FD-B0CA-64D27D4FEC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADBE2A2-8F59-40FD-B0CA-64D27D4FEC06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Windows Forms\Nabi Jr\bin\Debug\Nabi Jr.exe.config
+D:\Windows Forms\Nabi Jr\bin\Debug\Nabi Jr.exe
+D:\Windows Forms\Nabi Jr\bin\Debug\Nabi Jr.pdb
+D:\Windows Forms\Nabi Jr\bin\Debug\Nabi Jr.xml
+D:\Windows Forms\Nabi Jr\bin\Debug\AndroidLib.dll
+D:\Windows Forms\Nabi Jr\bin\Debug\AndroidLib.pdb
+D:\Windows Forms\Nabi Jr\bin\Debug\AndroidLib.xml
+D:\Windows Forms\Nabi Jr\obj\Debug\Nabi Jr.vbprojResolveAssemblyReference.cache
+D:\Windows Forms\Nabi Jr\obj\Debug\Nabi_Jr.Main.resources
+D:\Windows Forms\Nabi Jr\obj\Debug\Nabi_Jr.Resources.resources
+D:\Windows Forms\Nabi Jr\obj\Debug\Nabi Jr.vbproj.GenerateResource.Cache
+D:\Windows Forms\Nabi Jr\obj\Debug\Nabi Jr.exe
+D:\Windows Forms\Nabi Jr\obj\Debug\Nabi Jr.xml
+D:\Windows Forms\Nabi Jr\obj\Debug\Nabi Jr.pdb
+D:\Windows Forms\Nabi Jr\bin\Debug\Nabi Rebooter.exe.config

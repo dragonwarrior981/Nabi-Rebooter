@@ -1,0 +1,9 @@
+D:\Windows Forms\Nabi Rebooter\bin\Release\Nabi Rebooter.exe.config
+D:\Windows Forms\Nabi Rebooter\obj\Release\Nabi Rebooter.exe
+D:\Windows Forms\Nabi Rebooter\bin\Release\Nabi Rebooter.exe
+D:\Windows Forms\Nabi Rebooter\bin\Release\AndroidLib.dll
+D:\Windows Forms\Nabi Rebooter\obj\Release\Nabi Rebooter.vbprojResolveAssemblyReference.cache
+D:\Windows Forms\Nabi Rebooter\obj\Release\Nabi_Rebooter.AboutBox.resources
+D:\Windows Forms\Nabi Rebooter\obj\Release\Nabi_Rebooter.Main.resources
+D:\Windows Forms\Nabi Rebooter\obj\Release\Nabi_Rebooter.Resources.resources
+D:\Windows Forms\Nabi Rebooter\obj\Release\Nabi Rebooter.vbproj.GenerateResource.Cache
